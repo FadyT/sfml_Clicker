@@ -1,0 +1,72 @@
+﻿  Source.cpp
+  UIElement.cpp
+d:\iti\sfml games\cickergame\cickergame\uielement.cpp(69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\uielement.cpp(85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\uielement.cpp(95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  UIManager.cpp
+d:\iti\sfml games\cickergame\cickergame\uimanager.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+d:\iti\sfml games\cickergame\cickergame\main.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\iti\sfml games\cickergame\cickergame\main.cpp(155): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\main.cpp(156): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\main.cpp(172): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\main.cpp(195): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\main.cpp(201): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\main.cpp(218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\iti\sfml games\cickergame\cickergame\main.cpp(316): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\main.cpp(317): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\iti\sfml games\cickergame\cickergame\main.cpp(397): warning C4129: ' ': unrecognized character escape sequence
+  Generating Code...
+  CickerGame.vcxproj -> D:\iti\sfml games\CickerGame\Debug\CickerGame.exe
